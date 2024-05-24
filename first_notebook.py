@@ -1,5 +1,5 @@
 # Databricks notebook source
-df = spark.table("nsangana_catalog.hls_patient_readmission.patient_encrypted")
+df = spark.table("nsangana.test.patients")
 
 # COMMAND ----------
 
